@@ -291,18 +291,9 @@ body {
   color: var(--on-accent);
 }
 
-.btn--outline {
-  background: transparent;
-  color: var(--accent);
-}
-
 .btn:hover {
   transform: translateY(-2px);
   box-shadow: 0 8px 20px rgba(108, 71, 224, 0.18);
-}
-
-.btn--outline:hover {
-  background: var(--accent-soft);
 }
 
 .btn:active {
